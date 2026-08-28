@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+a2wsgi
